@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Assignment1_OneScreen")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+ac4898f4ce5fa21c765a088e8d46ca428abc8578")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+e6b2ab3bb44050894ee4ad6ea8743068bdc9e49f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Assignment1_OneScreen")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Assignment1_OneScreen")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

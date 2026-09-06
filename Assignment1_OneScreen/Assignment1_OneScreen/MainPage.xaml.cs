@@ -2,23 +2,26 @@
 {
     public partial class MainPage : ContentPage
     {
-        int count = 0;
-
         public MainPage()
         {
             InitializeComponent();
         }
 
-        private void OnCounterClicked(object? sender, EventArgs e)
+        private void OnConvertClicked(object? sender, EventArgs e)
         {
-            count++;
+            if (float.TryParse(timeInput.Text, out float days))
+            {
+                float hours = days * 24;
+                float minutes = hours * 60;
 
-            if (count == 1)
-                CounterBtn.Text = $"Clicked {count} time";
+                resultLabel.Text = $"{hours:N0} hours - that's {minutes:N0} minutes";
+            }
             else
-                CounterBtn.Text = $"Clicked {count} times";
+            {
+                resultLabel.Text = "Please enter a valid number.";
+            }
 
-            SemanticScreenReader.Announce(CounterBtn.Text);
+            SemanticScreenReader.Announce(resultLabel.Text);
         }
     }
 }

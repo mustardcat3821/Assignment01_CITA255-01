@@ -1,12 +1,54 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\isaia\\Desktop\\Assignment01_CITA255-01\\Assignment1_OneScreen\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D8A02943-7E3D-9AF7-59ED-5C2FE9553229}|Assignment1_OneScreen\\Assignment1_OneScreen.csproj|c:\\users\\isaia\\desktop\\assignment01_cita255-01\\assignment1_onescreen\\assignment1_onescreen\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8A02943-7E3D-9AF7-59ED-5C2FE9553229}|Assignment1_OneScreen\\Assignment1_OneScreen.csproj|solutionrelative:assignment1_onescreen\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8A02943-7E3D-9AF7-59ED-5C2FE9553229}|Assignment1_OneScreen\\Assignment1_OneScreen.csproj|c:\\users\\isaia\\desktop\\assignment01_cita255-01\\assignment1_onescreen\\assignment1_onescreen\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D8A02943-7E3D-9AF7-59ED-5C2FE9553229}|Assignment1_OneScreen\\Assignment1_OneScreen.csproj|solutionrelative:assignment1_onescreen\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\isaia\\Desktop\\Assignment01_CITA255-01\\Assignment1_OneScreen\\Assignment1_OneScreen\\MainPage.xaml",
+              "RelativeDocumentMoniker": "Assignment1_OneScreen\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\isaia\\Desktop\\Assignment01_CITA255-01\\Assignment1_OneScreen\\Assignment1_OneScreen\\MainPage.xaml",
+              "RelativeToolTip": "Assignment1_OneScreen\\MainPage.xaml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-09-06T05:17:35.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\isaia\\Desktop\\Assignment01_CITA255-01\\Assignment1_OneScreen\\Assignment1_OneScreen\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "Assignment1_OneScreen\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\isaia\\Desktop\\Assignment01_CITA255-01\\Assignment1_OneScreen\\Assignment1_OneScreen\\MainPage.xaml.cs",
+              "RelativeToolTip": "Assignment1_OneScreen\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-06T05:29:42.496Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
