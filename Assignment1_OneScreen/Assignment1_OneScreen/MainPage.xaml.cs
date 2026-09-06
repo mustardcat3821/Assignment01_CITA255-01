@@ -9,17 +9,12 @@
 
         private void OnConvertClicked(object? sender, EventArgs e)
         {
-            if (float.TryParse(timeInput.Text, out float days))
-            {
-                float hours = days * 24;
-                float minutes = hours * 60;
+            float days = float.Parse(timeInput.Text);
 
-                resultLabel.Text = $"{hours:N0} hours - that's {minutes:N0} minutes";
-            }
-            else
-            {
-                resultLabel.Text = "Please enter a valid number.";
-            }
+            float hours = days * 24;
+            float minutes = hours * 60;
+
+            resultLabel.Text = $"{hours:N0} hours - that's {minutes:N0} minutes";
 
             SemanticScreenReader.Announce(resultLabel.Text);
         }
