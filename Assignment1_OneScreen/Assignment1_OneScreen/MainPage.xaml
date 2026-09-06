@@ -14,27 +14,35 @@
                 SemanticProperties.HeadingLevel = "Level1" />
 
             <Label
-                Text = "Calculate time differences with ease"
+                Text = "Calculate The Days Into Hours and Minutes!"
                 Style = "{StaticResource SubHeadline}"
-                SemanticProperties.HeadingLevel = "Level2"
-                SemanticProperties.Description = "Time calculator for easy time difference calculations" />
+                SemanticProperties.HeadingLevel = "Level2"/>
 
             <Entry
-                Placeholder = "Enter the amount of days"
+                Placeholder = "Enter the amount of days you want to convert..."
                 x:Name = "timeInput"
                 Keyboard = "Numeric" />
 
             <Button
                 x:Name = "convertButton"
-                Text = "Convert"
-                SemanticProperties.Hint = "Converts days to hours and minutes"
+                Text = "Convert to Hours and Minutes"
+                SemanticProperties.Hint = "Converts your entered days into hours and minutes!"
                 Clicked = "OnConvertClicked"
                 HorizontalOptions = "Fill" />
 
             <Label
                 x:Name = "resultLabel"
-                Text = ""
+                Text = "The result will appear here!"
+                TextColor = "Gray"
                 FontSize = "18"
+                FontAttributes = "Italic"
+                HorizontalOptions = "Center" />
+            
+            <Image
+                Source = "clockcat.gif"
+                IsAnimationPlaying="True"
+                SemanticProperties.Description = "Cat Clock Ticking GIF"
+                HeightRequest = "200"
                 HorizontalOptions = "Center" />
         </VerticalStackLayout>
     </ScrollView>

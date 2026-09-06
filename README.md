@@ -35,6 +35,8 @@ Open the .sln in Visual Studio, set the target to Windows Machine, press F5.
 
 The program crashes when you type in letters to the entry box.
 
+The program also crashes when nothing is entered into the entry box.
+
 
 
 \## AI assistance

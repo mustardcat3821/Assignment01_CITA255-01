@@ -517,3 +517,5 @@ C:\Users\isaia\Desktop\Assignment01_CITA255-01\Assignment1_OneScreen\Assignment1
 C:\Users\isaia\Desktop\Assignment01_CITA255-01\Assignment1_OneScreen\Assignment1_OneScreen\obj\Debug\net10.0-windows10.0.19041.0\win-x64\qualifiers.txt
 C:\Users\isaia\Desktop\Assignment01_CITA255-01\Assignment1_OneScreen\Assignment1_OneScreen\obj\Debug\net10.0-windows10.0.19041.0\win-x64\qualifiers.txt.intermediate
 C:\Users\isaia\Desktop\Assignment01_CITA255-01\Assignment1_OneScreen\Assignment1_OneScreen\obj\Debug\net10.0-windows10.0.19041.0\win-x64\MultipleQualifiersPerDimensionFound.txt
+C:\Users\isaia\Desktop\Assignment01_CITA255-01\Assignment1_OneScreen\Assignment1_OneScreen\bin\Debug\net10.0-windows10.0.19041.0\win-x64\clockcat.scale-100.gif
+C:\Users\isaia\Desktop\Assignment01_CITA255-01\Assignment1_OneScreen\Assignment1_OneScreen\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\r\clockcat.scale-100.gif

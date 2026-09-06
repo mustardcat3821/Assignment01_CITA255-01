@@ -14,6 +14,8 @@
             float hours = days * 24;
             float minutes = hours * 60;
 
+            resultLabel.TextColor = Colors.White;
+            resultLabel.FontAttributes = FontAttributes.None;
             resultLabel.Text = $"{hours:N0} hours - that's {minutes:N0} minutes";
 
             SemanticScreenReader.Announce(resultLabel.Text);
